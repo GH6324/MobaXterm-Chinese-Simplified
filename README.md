@@ -1,3 +1,4 @@
+<p><h6 align="right"><a href="https://github.com/RipplePiam/MobaXterm-Chinese-Simplified/discussions/94">广播📡：关于防范软件倒卖行为，请大家支招</a></h6><br/></p> 
 <p><h1 align="center">MobaXterm-Chinese-Simplified</h1><br/></p> 
 
 <p align="center">
